@@ -6,7 +6,8 @@
 - 📫 How to reach me **shaikhsoahil03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/shaikh-ifrah/" target="_blank" rel="noreferrer"></a> <image src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+<p align="left"> 
+[<img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Ifrah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaikh-ifrah/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
