@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-
+<image src="https://toppng.com/free-image/linkedin-logo-transparent-background-PNG-free-PNG-Images_477036"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
